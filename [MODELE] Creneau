@@ -7,7 +7,7 @@ public class Creneau {
     private LocalDateTime debut;
     private LocalDateTime fin;
     private LocalDateTime date;
-    private boolean estLibre;
+    private boolean estLibre; 
 
     // Constructeur
     public Creneau(int id, LocalDateTime debut, LocalDateTime fin, LocalDateTime date, boolean estLibre) {
