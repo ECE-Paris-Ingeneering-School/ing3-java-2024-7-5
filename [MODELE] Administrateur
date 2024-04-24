@@ -1,6 +1,7 @@
 MODELE ADMIN :
 package Modele;
 
+
 public class Administrateur {
     private int id_utilisateur;
     private String poste;
