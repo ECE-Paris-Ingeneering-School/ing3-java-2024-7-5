@@ -4,7 +4,7 @@ CREATE TABLE Medecin (
     nommedecin VARCHAR(255),
     prenommedecin VARCHAR(255),
     motdepassemedecin VARCHAR(255),
-    idemploye INT,
+    idemploye INT(11),
     FOREIGN KEY (idemploye) REFERENCES Employe(Idemploye)
 );
 
