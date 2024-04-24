@@ -7,7 +7,6 @@ import javax.swing.table.DefaultTableModel;
 import java.awt.event.ActionEvent;
 import java.sql.*;
 
-
 public class Ad_medecin extends javax.swing.JFrame {
 
     PreparedStatement pst;
