@@ -49,4 +49,4 @@ public class Patients extends Utilisateurs {
     public void setDateNaissance(String dateNaissance) {
         this.dateNaissance = dateNaissance;
     }
-}
+}//
