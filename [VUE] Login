@@ -5,7 +5,6 @@ import Vue.Admin.admin;
 import Vue.Medecin.medecin;
 import Vue.Patient.patient;
 
-
 import java.lang.*;
 import javax.swing.*;
 import java.awt.*;
