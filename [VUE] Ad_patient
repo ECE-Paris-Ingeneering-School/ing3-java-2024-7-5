@@ -573,5 +573,5 @@ public class Ad_patient extends javax.swing.JFrame {
     private javax.swing.JComboBox<String> txtsexe;
     // End of variables declaration
 }
-
+//
 
