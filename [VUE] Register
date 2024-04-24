@@ -366,4 +366,4 @@ public class Register extends javax.swing.JFrame {
     private javax.swing.JComboBox<String> typeCompte;
     // End of variables declaration
 }
-
+//
