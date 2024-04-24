@@ -2,6 +2,7 @@ package Modele;
 
 import java.util.ArrayList;
 import java.util.List;
+
 public class Medecin extends Utilisateurs {
     private String Specialites;
     private String id_salle;
