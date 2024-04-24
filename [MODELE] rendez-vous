@@ -11,7 +11,7 @@ public class RendezVous {
     private int idPatient;
 
     // Constructeur
-    public RendezVous(int idRendezVous, String date, String motif, int idMedecin, int idPatient) {
+    public RendezVous(int idRendezVous, String date, String motif, int idMedecin, int idPatient) { 
         this.idRendezVous = idRendezVous;
         this.date = date;
         this.motif = motif;
