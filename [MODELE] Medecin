@@ -44,7 +44,7 @@ public class Medecin extends Utilisateurs {
     }
 
     public String getId_salle() {
-        return id_salle;
+        return id_salle
     }
 
     public void setId_salle(String id_salle) {
