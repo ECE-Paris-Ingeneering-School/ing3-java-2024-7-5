@@ -18,7 +18,7 @@ public class Creneau {
         this.estLibre = estLibre;
     }
 
-    // Getters et Setters
+    // Getters et Setter
     public int getId() {
         return id;
     }
