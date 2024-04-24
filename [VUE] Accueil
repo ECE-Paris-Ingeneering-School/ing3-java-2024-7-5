@@ -125,3 +125,4 @@ public class Accueil extends javax.swing.JFrame {
     private javax.swing.JLabel titre;
     // End of variables declaration
 }
+//
